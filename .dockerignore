@@ -1,0 +1,8 @@
+venv/
+samples/
+*.pyc
+__pycache__/
+.git/
+.env
+*.ipynb
+.claude/

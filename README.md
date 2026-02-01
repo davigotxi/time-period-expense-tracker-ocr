@@ -1,3 +1,15 @@
+---
+title: Receipt OCR Expense Tracker
+emoji: 🧾
+colorFrom: blue
+colorTo: purple
+sdk: streamlit
+sdk_version: 1.30.0
+app_file: app.py
+pinned: false
+license: mit
+---
+
 # time-period-expense-tracker-ocr
 
 A Streamlit app that uses EasyOCR and LLMs to extract structured data from receipts. Upload a receipt image and the AI will parse items, prices, categories, and timestamps - then track your spending over time.
